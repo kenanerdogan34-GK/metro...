@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Benim Programım</title>
+</head>
+<body>
+
+<h1>Hoşgeldin Kerem</h1>
+<button onclick="mesaj()">Tıkla</button>
+
+<script>
+function mesaj() {
+    alert("Butona bastın!");
+}
+</script>
+
+</body>
+</html>
